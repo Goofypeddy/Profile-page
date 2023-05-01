@@ -8,3 +8,13 @@ body {
     align-items: center;
     text-align: center;
 }
+.p1 {
+    width: 400px;
+    text-align: left;
+    text-indent: 40px;
+}
+.ul1 {
+    width: 400px;
+    text-align: center;
+    text-indent: 0px;
+}
